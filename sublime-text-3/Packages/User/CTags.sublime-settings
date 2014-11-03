@@ -1,0 +1,6 @@
+{
+	"extra_tag_paths": [
+		[["source.cpp", "linux"], "~/.ctags/cpp"],
+		[["source.c", "linux"], "~/.ctags/cpp"]
+	]
+}

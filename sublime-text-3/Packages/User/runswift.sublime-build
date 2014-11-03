@@ -1,0 +1,13 @@
+{
+    "cmd": ["make", "-j5"],
+    "file_regex": "^([^:\n]*):([^:\n]*):([^:\n]*): error:(.*)$",
+    "working_dir": "${project_path}/build-release",
+
+    "variants": [
+        {
+            "cmd": [ "make -j5 && nao_sync -r luigi" ],
+            "shell": true,
+            "name": "Build and nao_sync -r luigi"
+        }
+    ]
+}
