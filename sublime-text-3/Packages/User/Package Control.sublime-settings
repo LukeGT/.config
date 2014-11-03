@@ -13,6 +13,8 @@
 		"Origami",
 		"Pandoc",
 		"Prolog",
-		"Stylus"
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-pylint"
 	]
 }
