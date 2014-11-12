@@ -1,4 +1,7 @@
+Backup
 Cache
 Index
 Local
+Installed Packages
+Packages/[^U]*
 Packages/User/Package Control.*
