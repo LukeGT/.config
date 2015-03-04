@@ -25,6 +25,8 @@
 		"Stylus",
 		"SublimeLinter",
 		"SublimeLinter-jshint",
+		"SublimeLinter-contrib-clang",
+		"SublimeLinter-cppcheck",
 		"SublimeLinter-pylint"
 	]
 }
