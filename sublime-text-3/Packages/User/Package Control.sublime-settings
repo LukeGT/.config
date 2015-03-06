@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"All Autocomplete",
@@ -8,14 +11,19 @@
 		"CTags",
 		"Git",
 		"Google Spell Check",
+		"INI",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"MoveTab",
 		"Origami",
+		"Package Control",
 		"Pandoc",
 		"Prolog",
+		"rsub",
+		"Sass",
 		"Stylus",
 		"SublimeLinter",
+		"SublimeLinter-jshint",
 		"SublimeLinter-pylint"
 	]
 }
