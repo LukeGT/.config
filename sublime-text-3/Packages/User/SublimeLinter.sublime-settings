@@ -29,15 +29,7 @@
 				],
 				"excludes":
 				[
-				]
-			},
-			{
-				"@disable": false,
-				"args":
-				[
 				],
-				"excludes":
-				[
 				"extra_flags": "-internal-isystem /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../include/c++/4.8 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../include/x86_64-linux-gnu/c++/4.8 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../include/x86_64-linux-gnu/c++/4.8 -internal-isystem /usr/lib/gcc/x86_64-linux-gnu/4.8/../../../../include/c++/4.8/backward -internal-isystem /usr/local/include -internal-isystem /usr/lib/llvm-3.5/bin/../lib/clang/3.5.0/include -internal-externc-isystem /usr/lib/gcc/x86_64-linux-gnu/4.8/include -internal-externc-isystem /usr/include/x86_64-linux-gnu -internal-externc-isystem /include -internal-externc-isystem /usr/include",
 				"include_dirs":
 				[
