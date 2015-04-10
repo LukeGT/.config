@@ -11,16 +11,6 @@
 		"lint_mode": "background",
 		"linters":
 		{
-			"jshint":
-			{
-				"@disable": false,
-				"args":
-				[
-				],
-				"excludes":
-				[
-				]
-			},
 			"clang":
 			{
 				"@disable": false,
@@ -49,9 +39,19 @@
 				[
 				]
 			},
+			"jshint":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"pylint":
 			{
-				"@disable": true,
+				"@disable": false,
 				"args":
 				[
 				],
@@ -63,7 +63,7 @@
 				"paths":
 				[
 				],
-				"rcfile": "",
+				"rcfile": "/home/ltsekouras/projects/python_common/pylintrc",
 				"show-codes": false
 			}
 		},
