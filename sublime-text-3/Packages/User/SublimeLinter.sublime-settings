@@ -49,6 +49,16 @@
 				[
 				]
 			},
+			"jscs":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			},
 			"pylint":
 			{
 				"@disable": false,
