@@ -12,6 +12,7 @@
 		"Git",
 		"GitGutter",
 		"INI",
+		"Jade",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"MoveTab",
@@ -21,10 +22,12 @@
 		"Prolog",
 		"rsub",
 		"Sass",
+		"SASS Build",
 		"Stylus",
 		"SublimeLinter",
 		"SublimeLinter-contrib-clang",
 		"SublimeLinter-cppcheck",
+		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SublimeLinter-pylint"
 	]
