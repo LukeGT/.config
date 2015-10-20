@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -13,6 +14,9 @@
 		"CTags",
 		"Git",
 		"GitGutter",
+		"google-citc-gutter",
+		"google-cs",
+		"google-syntax",
 		"INI",
 		"Jade",
 		"Markdown Preview",
@@ -32,5 +36,9 @@
 		"SublimeLinter-jscs",
 		"SublimeLinter-jshint",
 		"SublimeLinter-pylint"
+	],
+	"repositories":
+	[
+		"https://sublime-text-plugins.corp.google.com/google-packages.json"
 	]
 }
