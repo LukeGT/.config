@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"AAAPackageDev",
 		"All Autocomplete",
 		"Better CoffeeScript",
 		"Calculate",
@@ -27,6 +26,7 @@
 		"MoveTab",
 		"Origami",
 		"Package Control",
+		"PackageDev",
 		"Pandoc",
 		"Prolog",
 		"rsub",
