@@ -10,9 +10,11 @@
 		"cscope.*"
 	],
 	"font_size": 8,
+	"google_g3_remote_host": "eu",
 	"ignored_packages":
 	[
 		"Markdown",
+		"google-citc-gutter",
 		"SublimeLinter-jscs"
 	],
 	"origami_auto_close_empty_panes": true,
