@@ -15,6 +15,7 @@
 	[
 		"Markdown",
 		"google-citc-gutter",
+		"google-Modific",
 		"SublimeLinter-jscs"
 	],
 	"origami_auto_close_empty_panes": true,
