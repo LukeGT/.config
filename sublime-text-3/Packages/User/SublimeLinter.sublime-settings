@@ -13,7 +13,7 @@
 		{
 			"clang":
 			{
-				"@disable": false,
+				"@disable": true,
 				"args":
 				[
 				],
@@ -39,7 +39,7 @@
 				[
 				]
 			},
-			"jshint":
+			"jscs":
 			{
 				"@disable": false,
 				"args":
@@ -49,7 +49,7 @@
 				[
 				]
 			},
-			"jscs":
+			"jshint":
 			{
 				"@disable": false,
 				"args":
