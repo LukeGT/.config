@@ -19,5 +19,7 @@
   { "keys": ["ctrl+shift+b"], "command": "build", "args": {"variant": "Run"} },
 
   { "keys": ["ctrl+alt+pageup"], "command": "jump_between_changes", "args": {"direction": "prev"} },
-  { "keys": ["ctrl+alt+pagedown"], "command": "jump_between_changes", "args": {"direction": "next"} }
+  { "keys": ["ctrl+alt+pagedown"], "command": "jump_between_changes", "args": {"direction": "next"} },
+
+  { "keys": ["ctrl+space"], "command": "goto_definition" }
 ]
