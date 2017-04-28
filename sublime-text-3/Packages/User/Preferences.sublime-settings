@@ -13,9 +13,9 @@
 	"google_g3_remote_host": "eu",
 	"ignored_packages":
 	[
-		"Markdown",
 		"google-citc-gutter",
 		"google-Modific",
+		"Markdown",
 		"SublimeLinter-jscs"
 	],
 	"origami_auto_close_empty_panes": true,
